@@ -1,6 +1,6 @@
 # My Project
 
-This is a React application that provides 
+This is a React application that provides information about books.
 
 ## 🚀 Live Demo
 
