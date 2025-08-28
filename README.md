@@ -5,13 +5,13 @@ This is a React application that provides [brief description of what your projec
 ## 🚀 Live Demo
 
 The application is deployed and running on StackBlitz. You can access the live demo by clicking the link below:
-
+   https://stackblitz.com/~/github.com/subbarajukundeti/book-finder
 ## 📦 Getting Started
 
 To run the project locally:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/subbarajukundeti/book-finder.gi
 
 2. Navigate to the project folder:
    cd your-repo-name
