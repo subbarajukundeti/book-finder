@@ -1,6 +1,6 @@
 # My Project
 
-This is a React application that provides [brief description of what your project does].
+This is a React application that provides 
 
 ## 🚀 Live Demo
 
